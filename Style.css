@@ -34,9 +34,9 @@ p {
 .image {
     text-align: center;
     margin-bottom: 20px;
-    width: 150px;
+    width: 10px;
     height: auto;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 .button {
     background-color: #4CAF50;
